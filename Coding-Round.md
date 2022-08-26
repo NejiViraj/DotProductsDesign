@@ -50,25 +50,27 @@ Selected candidates from this round will be intimated via email in a week after 
 
 
 
+Short work
+
 #d2f6e5
 
 
-                        <i class="fa-solid fa-grid"></i>
-                        <i class="fal fa-home"></i>
-                        <i class="fa-light fa-magnifying-glass"></i>
-                        <i class="fab fa-trello"></i>
-                        <i class="fa-regular fa-plus"></i>
-                        <i class="fa-regular fa-circle-exclamation"></i>
-                        <i class="fa-regular fa-bell"></i>
-                        <i class="fa-regular fa-signal-bars-good" data-fa-transform="rotate-180"></i>
-                        <i class="fa-regular fa-angles-right"></i>
-                        <i class="fa-light fa-star"></i>
-                        <i class="fa-regular fa-ellipsis"></i>
-                        <i class="fa-regular fa-angle-right" data-fa-transform="rotate-90"></i>
-                        <i class="fa-light fa-eye"></i>
-                        <i class="fa-light fa-paperclip" data-fa-transform="rotate-45"></i>
-                        <i class="fa-regular fa-bars"></i>
-                        <i class="fa-regular fa-square-check"></i>
-                        <i class="fa-light fa-clock"></i>
+<i class="fa-solid fa-grid"></i>
+<i class="fal fa-home"></i>
+<i class="fa-light fa-magnifying-glass"></i>
+<i class="fab fa-trello"></i>
+<i class="fa-regular fa-plus"></i>
+<i class="fa-regular fa-circle-exclamation"></i>
+<i class="fa-regular fa-bell"></i>
+<i class="fa-regular fa-signal-bars-good" data-fa-transform="rotate-180"></i>
+<i class="fa-regular fa-angles-right"></i>
+<i class="fa-light fa-star"></i>
+<i class="fa-regular fa-ellipsis"></i>
+<i class="fa-regular fa-angle-right" data-fa-transform="rotate-90"></i>
+<i class="fa-light fa-eye"></i>
+<i class="fa-light fa-paperclip" data-fa-transform="rotate-45"></i>
+<i class="fa-regular fa-bars"></i>
+<i class="fa-regular fa-square-check"></i>
+<i class="fa-light fa-clock"></i>
 
 https://dadcthgp8e1vqwzvjsd8pq.on.drv.tw/PublicShare/DotProduct/
